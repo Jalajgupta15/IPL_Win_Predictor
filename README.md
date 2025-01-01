@@ -93,9 +93,11 @@ ipl-win-predictor/
 
 ---
 
-## Example Screenshot
+## Screenshot
 
-![IPL Win Predictor Screenshot](link-to-screenshot-image)
+![image](https://github.com/user-attachments/assets/91d764a8-9746-45c5-b39b-8ea4a09e1486)
+![image](https://github.com/user-attachments/assets/af61089f-2053-4419-b19d-88af2c3d8275)
+
 
 ---
 
